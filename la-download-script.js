@@ -10,7 +10,7 @@
    * Command + Option + J (macOS): This shortcut directly opens the Console panel within the DevTools. 
    *
    * 2. Copy this whole(!) code into the browser console on a gallery page (select whole code with Ctrl+A, then Ctrl+C to copy and Ctrl+P to paste into console input. on Mac it is Cmd not Ctrl).
-   *
+   * 3. Press Enter to execute
    * 
    * What it does:
    * 
