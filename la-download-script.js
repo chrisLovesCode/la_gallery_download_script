@@ -1,6 +1,6 @@
 (() => {
   /**
-   * Gallery Download Script for event galleries of LA (vanilla JS)
+   * Gallery Download Script for event galleries of CoM and others on skald website (vanilla JS)
    * tested with Google Chronme (Desktop)
    * 
    * HOW TO USE:
